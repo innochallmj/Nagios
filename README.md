@@ -8,16 +8,20 @@
 
 >### B. 프로젝트 멤버
 * 이진우<br>
+<t>1) web01에 was01의 OS 기본 구성<br>
+<t>2) web01에 웹서버 및 mod_jk 설치<br>
+<t>3) was01에 WAS 설치, DB connector 설치<br>
+<t>4) mgt01에 nagios 패키지 설치<br>
+<t>5) mgt01에 모니터링 구성<br>
+
+* 이명주<br>
 <t>1) 초기 VM 생성, OS 설치<br>
 <t>2) dbm01과 mgt01의 OS 기본 구성<br>
 <t>3) dbm01에 DB 설치<br>
 <t>4) Web-WAS-DB 연동<br>
-
-* 이명주<br>
-<t>1) web01에 was01의 OS 기본 구성<br>
-<t>2) web01에 웹서버 및 mod_jk 설치<br>
-<t>3) was01에 WAS 설치, DB connector 설치<br>
-<t>4) Github 관리
+<t>5) web01,was01,dbm01에 nrpe 설치<br>
+<t>6) web01,was01,dbm01에 모니터링 구성<br>
+<t>7) Github 관리
 <br><br>
   
   
