@@ -1,5 +1,7 @@
-# NagiosMonitoring Project
-![nagios 이미지](https://user-images.githubusercontent.com/71215978/144743006-964e7b01-4406-4280-bdfe-fe9a56bd5402.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7BD1D2&height=270&section=header&text=Nagios Monitoring%20&fontSize=90&fontColor=363636" />
+<h3 align="center">20165245 전자공학과 이진우</h3>
+<h3 align="center">20185268 스마트IoT 이명주</h3>
+
 
 >### A. 프로젝트명
 : Nagios를 이용한 모니터링 서비스
@@ -26,6 +28,7 @@
   
   
 >### C.	프로젝트 소개 및 개발 내용 소개
+![nagios 이미지](https://user-images.githubusercontent.com/71215978/144743006-964e7b01-4406-4280-bdfe-fe9a56bd5402.png)
 * #### Nagios<br>
 : Nagios는 시스템 및 네트워크 모니터링 응용프로그램으로, 지정한 호스트와 서비스를 관찰하고 장애가 발생하거나 복구되었을 때 경보를 발령해준다. Nagios는 서버(nagios)와 클라이언트(nrpe) 방식으로 구현된다. 원래 Nagios는 Linux에서 실행되도록 디자인되어 졌음에도 불구하고 Linux 뿐만 아니라 Windows까지 모니터링 가능하며, 서버에서 발생하는 특정 상황을 정의하여 모니터링 할 수 있다.
   <br><br>
