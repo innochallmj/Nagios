@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7BD1D2&height=270&section=header&text=Nagios Monitoring%20&fontSize=90&fontColor=363636" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&text=Nagios Monitoring%20&fontSize=90&fontColor=363636" />
 <h3 align="center">20165245 전자공학과 이진우</h3>
 <h3 align="center">20185268 스마트IoT 이명주</h3>
 
